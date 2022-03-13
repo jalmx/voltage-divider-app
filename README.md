@@ -1,6 +1,6 @@
 # voltage-divider-app
 
-App android for calculate voltage divider
+App android for calculate voltage divider. For the moment just design, maybe in future to build
 
 ![home](https://github.com/jalmx89/voltage-divider-app/blob/master/Home.png)
 
